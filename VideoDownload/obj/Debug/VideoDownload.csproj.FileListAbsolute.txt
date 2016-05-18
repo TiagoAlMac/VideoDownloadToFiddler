@@ -1,0 +1,11 @@
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\VideoDownload.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\VideoDownload.pdb
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Fiddler.exe
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Xceed.Zip.v5.4.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Xceed.FileSystem.v5.4.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Telerik.Analytics.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Xceed.Compression.Formats.v5.4.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\bin\Debug\Xceed.Compression.v5.4.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\obj\Debug\VideoDownload.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\obj\Debug\VideoDownload.dll
+C:\Users\Tiago Machado\Documents\VideoDownloadToFiddler\VideoDownload\obj\Debug\VideoDownload.pdb
